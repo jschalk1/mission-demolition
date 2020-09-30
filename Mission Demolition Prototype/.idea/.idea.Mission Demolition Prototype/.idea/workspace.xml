@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c557d55e-5b70-4a0d-b583-a3c6b2b84e2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Cloud.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/__Scripts/MissionDemolition.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/__Scripts/RigidbodySleep.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/__Scripts/Goal.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/__Scripts/ProjectileLine.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/__Scripts/FollowCam.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/__Scripts/Slingshot.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Cloud.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/CloudCrafter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/__Scripts/RigidbodySleep.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/__Scripts/FollowCam.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/__Scripts/ProjectileLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/__Scripts/Goal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/__Scripts/MissionDemolition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/__Scripts/Slingshot.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iAFPvTAk3qG5mf2VTf4yYwkNsp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c557d55e-5b70-4a0d-b583-a3c6b2b84e2f" name="Default Changelist" comment="" />
+      <created>1601342471011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601342471011</updated>
+      <workItem from="1601342479018" duration="6164000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="64" key="SettingsEditor" timestamp="1601395880684">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="223" y="64" key="SettingsEditor/-2560.23.2560.1417/0.23.1440.828@0.23.1440.828" timestamp="1601395880684" />
+  </component>
+</project>
